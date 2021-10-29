@@ -6,7 +6,7 @@ import random
 
 def main():
     # Create a list of words to choose from
-    word_list = ["fraud", "collusion","sybil","moloch","ethbot","cheating","deception","complicity","comspiracy","ethereum","blockchain"]
+    word_list = ["fraud", "collusion","sybil","moloch","ethbot","cheating","deception","complicity","conspiracy","ethereum","blockchain"]
 
     # Choose a random word from the list
     word = random.choice(word_list)
